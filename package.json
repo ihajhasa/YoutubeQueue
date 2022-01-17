@@ -1,0 +1,16 @@
+{
+  "name": "djdeezjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^12.0.3",
+    "node-fetch": "^3.1.0"
+  }
+}
